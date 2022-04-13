@@ -1,19 +1,19 @@
 {
-  "name": "xlhooks",
+  "name": "xluse",
   "version": "0.1.0-alpha.0",
-  "description": "xlhooks",
+  "description": "xluse",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xinlei3166/xlhooks"
+    "url": "https://github.com/xinlei3166/xluse"
   },
   "keywords": [
     "typescript",
     "template"
   ],
   "bugs": {
-    "url": "https://github.com/xinlei3166/xlhooks/issues"
+    "url": "https://github.com/xinlei3166/xluse/issues"
   },
-  "homepage": "https://github.com/xinlei3166/xlhooks#readme",
+  "homepage": "https://github.com/xinlei3166/xluse#readme",
   "author": "君惜",
   "license": "MIT",
   "main": "dist/index.js",
